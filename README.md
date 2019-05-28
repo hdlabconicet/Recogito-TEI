@@ -16,9 +16,9 @@ At present Recogito supports import of plaintext (.txt extension) and TEI/XML en
 
 ## How to Contribute?
 
-The first task that the member of theams should tackle is the a comprenhensive review of input problems from TEI into Recogito and of ooutput problems from Recogito into TEI. In order to do this we can review this [file](https://github.com/hdcaicyt/Recogito-TEI/blob/master/Ruy_Diaz-La_Argentina_Manuscrita.tei.xml) (it is too big at the moment so it is only displayed as raw text, maybe we need a sample) and a [document](https://github.com/hdcaicyt/Recogito-TEI/blob/master/recogito-download-sample.tei.xml#L18=) with currently TEI supported elements for input. 
+The first task that the members of the team should tackle is a comprenhensive review of input problems from TEI into Recogito and of output problems from Recogito to TEI after geolocalization and the annotation of entities. In order to do this we can review this [file](https://github.com/hdcaicyt/Recogito-TEI/blob/master/Ruy_Diaz-La_Argentina_Manuscrita.tei.xml) (it is too big at the moment so it is only displayed as raw text, maybe we need a sample) and a [document](https://github.com/hdcaicyt/Recogito-TEI/blob/master/recogito-download-sample.tei.xml#L18=) with currently TEI supported elements for input. 
 
-If you want to comment or review a line of code, please copy the permalink and open an issue. Your issue should have a clear title and focus on only one issue. So open as many issues as problems you can find. Then copy the snippet of the code so everybody can see the problem and provide the permalink. You are allowed to use labels, mention people and assign tasks. 
+If you want to comment or review a line of code, please copy the permalink and open an issue. Your issue should have a clear title and **focus only on one problem/improvement/suggestion**. So open as many issues as problems you can find! Then copy the snippet of the code so everybody can see the problem and provide the permalink. You are allowed to use labels, mention people and assign tasks. 
 
 To continue.
 
