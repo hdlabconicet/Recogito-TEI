@@ -1,6 +1,6 @@
 # Recogito-TEI Working Group
 
-At present Recogito supports import of plaintext (.txt extension) and TEI/XML encoded text (.xml extension). However, text and annotations are transformed into TEI only partially. Many users of Recogito and Pelagios Commons tools have found the transition between the annotated text in Recogito and the final TEI result very useful for developing Digital Scholarly Editions (DSE). This Working Group aims at improving interoperability the inport and export of TEI encoded texts and facilitate the integration with publishing solutions such as CETEIcean and ED/Jekyll.
+At present Recogito supports import of plaintext (.txt extension) and TEI/XML encoded text (.xml extension). However, text and annotations are transformed into TEI only partially. Many users of Recogito and Pelagios Commons tools have found the transition between the annotated text in Recogito and the final TEI result very useful for developing Digital Scholarly Editions (DSE). This Working Group aims at improving interoperability between the import and export of TEI encoded texts and facilitate the integration with publishing solutions such as [CETEIcean](https://github.com/TEIC/CETEIcean) and [ED/Jekyll](https://elotroalex.github.io/ed/).
 
 ## Members
 
@@ -9,7 +9,7 @@ At present Recogito supports import of plaintext (.txt extension) and TEI/XML en
 - Nidia Hernández (HD CAICYT Lab, CONICET, Argentina)
 - Romina De León (HD CAICYT Lab, CONICET, Argentina)
 - Gustavo Fernández Riva (European Time Machine Project, Portugal)
-- Susanna Allés (University of Miami, USA)
+- Susanna Allés Torrent (University of Miami, USA)
 - Alex Gil (Columbia University, USA)
 - Rainer Simon (AIT, Austria)
 - Antonio Rojas Castro (CCeH, Universität zu Köln, Germany)
