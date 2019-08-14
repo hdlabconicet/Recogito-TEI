@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <!--        These fields should be taken from the corresponding Recogito Metadata.-->
+        <title>La Argentina manuscrita</title>
+        <author>HD CAICYT LAB</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</ref></p>
+      </publicationStmt>
+      <notesStmt>
+        <note>This should be completed with the content of the "Description" field in recogito.</note>
+        <note>If there is some content in the "More Information" field in the Recogito metadata it should come here</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl type="recogito-source">https://recogito.pelagios.org/document/wzqxhk0h3vpikm</bibl>
+        <bibl type="original-source">Content of the field "Source" field in the recogito metadata</bibl>
+        <bibl type="edition">Content of the field "Edition" field in the recogito metadata</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="SP"/>
+        <!--  According to the Recogito Metadata      -->
+      </langUsage>
+      <particDesc>
+        <ab> <listRelation>
+          <relation name="mother_of" active="recogito-6118bd02-03bf-47bd-8561-c49b6b922a76" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+          <relation name="daughter_of" active="recogito-5215e89f-7ae5-41f2-8f8f-d070bc341f38" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+          <relation name="kings_of" active="recogito-82349eb0-ff79-4293-be01-7a54934cdf65" passive="recogito-706e3a0b-5adc-4455-acbd-feb7c9334bcb"/>
+          <relation name="year_of" active="recogito-2d4271d5-809e-4425-9ac5-c7e7ca2c859b" passive="recogito-2260dfb1-eaf3-473e-9eec-dc542205a160"/>
+          <relation name="granfather_of" active="recogito-a115a12c-de77-4ed3-a6b6-3ac9bacee905" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+          <relation name="rey" active="recogito-b2195203-6f92-4146-a231-327107681022" passive="recogito-430ea039-0d3e-493e-a96a-b72d3b2c824f"/>
+          <relation name="King_of" active="recogito-b2195203-6f92-4146-a231-327107681022" passive="recogito-18952191-aa7c-4983-8fa3-512466ba3b9a"/>
+          <relation name="great-grandfather_of" active="recogito-e28f74b5-c999-4cd7-9528-06e67186efc3" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+          <relation name="date_of_the_treaty" active="recogito-d6ae3b24-be6d-4f13-a79b-18a75315b7e8" passive="recogito-ec75af8b-0ea4-46ae-b217-f0e7af6d6d26"/>
+          <relation name="discoverer_of" active="recogito-3b7eb971-93e6-4939-967a-457f0ca5c3ee" passive="recogito-2b30811c-3e7a-4b4d-884b-888fb6606916"/>
+          <relation name="tío" active="recogito-ebb3fc70-17dd-454e-9b74-6b9a330b71a7" passive="recogito-c4ccdcd5-083b-46f3-9592-a6f1649f9041"/>
+          <relation name="father_of" active="recogito-f9599f3a-2b88-4307-a257-8eb250cf98b7" passive="recogito-5215e89f-7ae5-41f2-8f8f-d070bc341f38"/>
+          <relation name="grandfather_of" active="recogito-f9599f3a-2b88-4307-a257-8eb250cf98b7" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+          </listRelation> </ab>
+      </particDesc>
+    </profileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Downloaded from https://recogito.pelagios.org/</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>La Argentina</head>
+      <div>
+      </div>
+    </body>
+  </text>
+</TEI>
