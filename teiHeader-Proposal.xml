@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <!--        These fields should be taken from the corresponding Recogito Metadata.-->
+        <title>La Argentina manuscrita</title>
+        <author>HD CAICYT LAB</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</ref></p>
+      </publicationStmt>
+      <notesStmt>
+        <note>This should be completed with the content of the "Description" field in recogito.</note>
+        <note>If there is some content in the "More Information" field in the Recogito metadata it should come here</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl type="recogito-source">https://recogito.pelagios.org/document/wzqxhk0h3vpikm</bibl>
+        <bibl type="original-source">Content of the field "Source" field in the recogito metadata</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="SP"/>
+        <!--  According to the Recogito Metadata      -->
+      </langUsage>
+      <particDesc>
+        <ab> <listRelation>
+          <relation name="mother_of" active="recogito-6118bd02-03bf-47bd-8561-c49b6b922a76" passive="recogito-4a29b887-e242-4142-af4d-7ad9e1d987be"/>
+<!--          List of relationships complete-->
+          </listRelation> </ab>
+      </particDesc>
+    </profileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Downloaded from https://recogito.pelagios.org/</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>La Argentina</head>
+      <div>
+      </div>
+    </body>
+  </text>
+</TEI>
